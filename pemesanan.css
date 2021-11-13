@@ -1,0 +1,41 @@
+body {
+margin: 50px auto;
+width: 700px;
+height: 500px;
+background-image: url(bg.jpg);
+}
+
+header,section,footer,logo {
+display: block;
+}
+
+header {
+height: 100px;
+background-color: #ff0000;
+text-align: center;
+}
+
+
+
+judul {
+font-family: crackman;
+font-size: 40px;
+color: rgb(255, 255, 255);
+font-weight: bold;
+float: center;
+margin: 50px 10px 10px 10px;
+}
+
+section {
+height: 350px;
+background-color: #d6d3d3;
+padding: 10px;
+}
+
+footer {
+clear: both;
+height: 20px;
+background-color: #fd0000;
+text-align: center;
+color: white;
+}
